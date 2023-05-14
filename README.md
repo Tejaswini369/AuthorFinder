@@ -1,1 +1,5 @@
 # AuthorFinderProject
+The datasets are available in the Datasets folder. One has to download them and the code files for all the three tasks are also available in the code files folder. There codes available specifically for each balanced as well as the imbalanced dataset for the tasks 1 and 2, in case of 3rd task the files are available but the dataset is made available in the zip format please unzip it before use. Also the see the naming convention for each file.
+Naming convention for task 1: task1 + dataset_type(balnaced or imbalance) + model_type(there are 4 models)
+Naming convention for task 2: task2p1 + dataset_type(balnaced or imbalance) + model_type(there are 4 models)
+Naming convention for task 3: task3 + model_type(there are four of them)
